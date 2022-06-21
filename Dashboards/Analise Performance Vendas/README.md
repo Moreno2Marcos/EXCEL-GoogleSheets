@@ -13,3 +13,6 @@
 ### FINAL LAYOUT (Dash 4)
 
 <a href="https://drive.google.com/uc?export=view&id=17K5zxExVVNKzZPb9WmkxL-Qa8WLju53o"><img src="https://drive.google.com/uc?export=view&id=17K5zxExVVNKzZPb9WmkxL-Qa8WLju53o" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+### Referência
+https://www.udemy.com/course/curso-de-excel-construindo-dashboards/
