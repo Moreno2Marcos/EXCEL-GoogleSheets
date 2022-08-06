@@ -20,6 +20,9 @@ Esta seção visa demonstrar meus conhecimentos práticos no uso de várias fun�
 # - Função SOMASES e MÉDIASES
 <a href="https://drive.google.com/uc?export=view&id=169WgOciCBWeSDtgHkHH-SBwPR4gFnJ9h"><img src="https://drive.google.com/uc?export=view&id=169WgOciCBWeSDtgHkHH-SBwPR4gFnJ9h" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
+# - Função CONT.SES e SOMASES Teste Lógico
+<a href="https://drive.google.com/uc?export=view&id=1syceuOMb-VP6Dtzz1I8ApyZBuXXvK2p7"><img src="https://drive.google.com/uc?export=view&id=1syceuOMb-VP6Dtzz1I8ApyZBuXXvK2p7" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 
 # Referência
 https://www.udemy.com/course/curso-de-excel-avancado-2016-para-se-tornar-especialista/
