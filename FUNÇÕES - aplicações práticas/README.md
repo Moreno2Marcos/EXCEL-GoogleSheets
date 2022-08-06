@@ -14,5 +14,8 @@ Esta seção visa demonstrar meus conhecimentos práticos no uso de várias fun�
 # - Função SOMASE
 <a href="https://drive.google.com/uc?export=view&id=1etRaM69zkaxPe_JcS2abbelmTmvUNlX2"><img src="https://drive.google.com/uc?export=view&id=1etRaM69zkaxPe_JcS2abbelmTmvUNlX2" style="width: 450px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
+# - Função MÉDIASE e CONT.SE
+<a href="https://drive.google.com/uc?export=view&id=1KdZv0T0j1UqAZrZkpRygSqW1FFXEKbpI"><img src="https://drive.google.com/uc?export=view&id=1KdZv0T0j1UqAZrZkpRygSqW1FFXEKbpI" style="width: 450px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 # Referência
 https://www.udemy.com/course/curso-de-excel-avancado-2016-para-se-tornar-especialista/
