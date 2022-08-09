@@ -32,5 +32,8 @@ Esta seção visa demonstrar meus conhecimentos práticos no uso de várias fun�
 # - Função PROCH e SOMARPRODUTO
 <a href="https://drive.google.com/uc?export=view&id=1-AAXkCo2uoNFuyJ2ayOJCF5M04aUTv0B"><img src="https://drive.google.com/uc?export=view&id=1-AAXkCo2uoNFuyJ2ayOJCF5M04aUTv0B" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
+# - Função CORRESP e INDICE
+<a href="https://drive.google.com/uc?export=view&id=1dQbj0KPmCZWMb3ighM2gN2qvpwmc9uBh"><img src="https://drive.google.com/uc?export=view&id=1dQbj0KPmCZWMb3ighM2gN2qvpwmc9uBh" style="width: 500px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 # Referência
 https://www.udemy.com/course/curso-de-excel-avancado-2016-para-se-tornar-especialista/
