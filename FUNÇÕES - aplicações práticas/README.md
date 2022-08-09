@@ -35,5 +35,8 @@ Esta seção visa demonstrar meus conhecimentos práticos no uso de várias fun�
 # - Função CORRESP e INDICE
 <a href="https://drive.google.com/uc?export=view&id=1dQbj0KPmCZWMb3ighM2gN2qvpwmc9uBh"><img src="https://drive.google.com/uc?export=view&id=1dQbj0KPmCZWMb3ighM2gN2qvpwmc9uBh" style="width: 500px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
+# - Função DESLOC, MEDIA, CONT.NUM e SOMA
+<a href="https://drive.google.com/uc?export=view&id=1MaItoKLUCB56K7OaAxDiGVpVgc4LAa86"><img src="https://drive.google.com/uc?export=view&id=1MaItoKLUCB56K7OaAxDiGVpVgc4LAa86" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 # Referência
 https://www.udemy.com/course/curso-de-excel-avancado-2016-para-se-tornar-especialista/
